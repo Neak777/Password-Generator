@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&family=Karla:wght@400;800&family=Outfit&display=swap');
+
+
+
+section {
+       
+        background:#1F2937;
+        width:550px;
+        height: 550px;  
+        display: flex;
+        justify-content: center;
+        align-items: center;
+ 
+       
+       
+}
+body {
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: #1C1C1C;
+    
+}
+
+#spn {
+    color:#4ADF86;
+     
+}
+
+h1 {
+    color: white;
+    font-family: 'Karla', sans-serif;
+}
+
+ p {
+     font-family: 'Inter', sans-serif;
+     color: #D5D4D8;
+     
+ }
+ 
+ #btn {
+       font-family: 'Inter', sans-serif;
+       color:white;
+       background: #10B981;
+       border-radius: 5px;
+       width: 190px; 
+       height: 40px;
+       border: 1px solid #2F3E53;
+ }
+ #btn1, #btn2 {
+    
+    width: 211px;
+    height: 40px;
+    background:  #273549;
+    border-radius: 6px;
+    border: 1px solid #2F3E53; 
+    color:#4ADF86;
+  
+    
+ }
+ 
+.boxes{
+    box-sizing: border-box;
+    gap:24px;
+    display: flex;
+}
+ 
+.hi {
+    border: 1px solid #2F3E53;
+    background: none;
+    
+}
+    
+   
